@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 9 / 100** (18 problems completed)
+> **Current Progress:** **Day 10 / 100** (20 problems completed)
 
 ---
 
@@ -29,6 +29,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 07** | 16 Aug 2026 | `day7_code1.c`, `day7_code2.c` | Leap Year check, Vowel or Consonant |
 | **Day 08** | 17 Aug 2026 | `day8_q1.c`, `day8_q2.c` | Character classification, Largest of three numbers |
 | **Day 09** | 18 Aug 2026 | `day9_q1.c`, `day9_q2.c` | Quadratic equation roots, Percentage to grade |
+| **Day 10** | 19 Aug 2026 | `day10_q1.c`, `day10_q2.c` | Triangle classification, Day of week (switch-case) |
 
 ---
 
