@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 11 / 100** (22 problems completed)
+> **Current Progress:** **Day 12 / 100** (24 problems completed)
 
 ---
 
@@ -31,6 +31,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 09** | 18 Aug 2026 | `day9_q1.c`, `day9_q2.c` | Quadratic equation roots, Percentage to grade |
 | **Day 10** | 19 Aug 2026 | `day10_q1.c`, `day10_q2.c` | Triangle classification, Day of week (switch-case) |
 | **Day 11** | 20 Aug 2026 | `day11_q1.c`, `day11_q2.c` | Month days count, Profit or Loss percentage |
+| **Day 12** | 21 Aug 2026 | `day12_q1.c`, `day12_q2.c` | Library fine calculation, Electricity bill tier |
 
 ---
 
