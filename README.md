@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 15 / 100** (30 problems completed)
+> **Current Progress:** **Day 16 / 100** (32 problems completed)
 
 ---
 
@@ -35,6 +35,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 13** | 22 Aug 2026 | `day13_q1.c`, `day13_q2.c` | Basic Calculator, Numbers from 1 to n |
 | **Day 14** | 23 Aug 2026 | `day14_q1.c`, `day14_q2.c` | Sum of odd numbers, Product of even numbers |
 | **Day 15** | 24 Aug 2026 | `day15_q1.c`, `day15_q2.c` | Factorial, Reverse a number |
+| **Day 16** | 25 Aug 2026 | `day16_q1.c`, `day16_q2.c` | Binary representation, Palindrome number |
 
 ---
 
