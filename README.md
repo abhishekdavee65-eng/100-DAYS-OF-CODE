@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 17 / 100** (34 problems completed)
+> **Current Progress:** **Day 18 / 100** (36 problems completed)
 
 ---
 
@@ -37,6 +37,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 15** | 24 Aug 2026 | `day15_q1.c`, `day15_q2.c` | Factorial, Reverse a number |
 | **Day 16** | 25 Aug 2026 | `day16_q1.c`, `day16_q2.c` | Binary representation, Palindrome number |
 | **Day 17** | 26 Aug 2026 | `day17_q1.c`, `day17_q2.c` | Armstrong number, Prime check |
+| **Day 18** | 27 Aug 2026 | `day18_q1.c`, `day18_q2.c` | Factors of number, HCF (GCD) |
 
 ---
 
