@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 19 / 100** (38 problems completed)
+> **Current Progress:** **Day 20 / 100** (40 problems completed)
 
 ---
 
@@ -39,6 +39,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 17** | 26 Aug 2026 | `day17_q1.c`, `day17_q2.c` | Armstrong number, Prime check |
 | **Day 18** | 27 Aug 2026 | `day18_q1.c`, `day18_q2.c` | Factors of number, HCF (GCD) |
 | **Day 19** | 28 Aug 2026 | `day19_q1.c`, `day19_q2.c` | LCM of two numbers, Sum of digits |
+| **Day 20** | 29 Aug 2026 | `day20_q1.c`, `day20_q2.c` | Product of odd digits, 1's complement |
 
 ---
 
