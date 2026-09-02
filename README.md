@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 23 / 100** (46 problems completed)
+> **Current Progress:** **Day 24 / 100** (48 problems completed)
 
 ---
 
@@ -43,6 +43,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 21** | 30 Aug 2026 | `day21_q1.c`, `day21_q2.c` | Swap first and last digit, Perfect number |
 | **Day 22** | 31 Aug 2026 | `day22_q1.c`, `day22_q2.c` | Strong number, Series sum 1 |
 | **Day 23** | 01 Sep 2026 | `day23_q1.c`, `day23_q2.c` | Series sum 2, 5x5 Square star pattern |
+| **Day 24** | 02 Sep 2026 | `day24_q1.c`, `day24_q2.c` | Right-angled star pattern, Number pyramid 1..n |
 
 ---
 
