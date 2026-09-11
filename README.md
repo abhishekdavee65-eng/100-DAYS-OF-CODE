@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 28 / 100** (56 problems completed)
+> **Current Progress:** **Day 29 / 100** (58 problems completed)
 
 ---
 
@@ -48,6 +48,8 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 26** | 04 Sep 2026 | `day26_q1.c`, `day26_q2.c` | Aligned number pattern, Star diamond pattern |
 | **Day 27** | 05 Sep 2026 | `day27_q1.c`, `day27_q2.c` | Expanding star pattern, Star diamond layers |
 | **Day 28** | 06 Sep 2026 | `day28_q1.c`, `day28_q2.c` | Prime numbers 1 to n, Read & print 1D array |
+| *Break* | *07–10 Sep* | *Mid-Semester Break* | *Paused* |
+| **Day 29** | 11 Sep 2026 | `day29_q1.c`, `day29_q2.c` | Sum of array elements, Max & Min in array |
 
 ---
 
