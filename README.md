@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 29 / 100** (58 problems completed)
+> **Current Progress:** **Day 30 / 100** (60 problems completed)
 
 ---
 
@@ -50,6 +50,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 28** | 06 Sep 2026 | `day28_q1.c`, `day28_q2.c` | Prime numbers 1 to n, Read & print 1D array |
 | *Break* | *07–10 Sep* | *Mid-Semester Break* | *Paused* |
 | **Day 29** | 11 Sep 2026 | `day29_q1.c`, `day29_q2.c` | Sum of array elements, Max & Min in array |
+| **Day 30** | 12 Sep 2026 | `day30_q1.c`, `day30_q2.c` | Count even/odd in array, Count pos/neg/zero |
 
 ---
 
