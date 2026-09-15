@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 32 / 100** (64 problems completed)
+> **Current Progress:** **Day 33 / 100** (66 problems completed)
 
 ---
 
@@ -53,6 +53,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 30** | 12 Sep 2026 | `day30_q1.c`, `day30_q2.c` | Count even/odd in array, Count pos/neg/zero |
 | **Day 31** | 13 Sep 2026 | `day31_q1.c`, `day31_q2.c` | Linear search, Reverse array in-place |
 | **Day 32** | 14 Sep 2026 | `day32_q1.c`, `day32_q2.c` | Merge two arrays, Most frequent digit |
+| **Day 33** | 15 Sep 2026 | `day33_q1.c`, `day33_q2.c` | Binary search, Insert in sorted array |
 
 ---
 
