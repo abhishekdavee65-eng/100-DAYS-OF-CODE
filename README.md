@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 34 / 100** (68 problems completed)
+> **Current Progress:** **Day 35 / 100** (70 problems completed)
 
 ---
 
@@ -55,6 +55,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 32** | 14 Sep 2026 | `day32_q1.c`, `day32_q2.c` | Merge two arrays, Most frequent digit |
 | **Day 33** | 15 Sep 2026 | `day33_q1.c`, `day33_q2.c` | Binary search, Insert in sorted array |
 | **Day 34** | 16 Sep 2026 | `day34_q1.c`, `day34_q2.c` | Insert at index, Delete from array |
+| **Day 35** | 17 Sep 2026 | `day35_q1.c`, `day35_q2.c` | Second largest in array, Rotate array by k |
 
 ---
 
