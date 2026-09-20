@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 37 / 100** (74 problems completed)
+> **Current Progress:** **Day 38 / 100** (76 problems completed)
 
 ---
 
@@ -58,6 +58,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 35** | 17 Sep 2026 | `day35_q1.c`, `day35_q2.c` | Second largest in array, Rotate array by k |
 | **Day 36** | 18 Sep 2026 | `day36_q1.c`, `day36_q2.c` | Read & print matrix, Sum of matrix elements |
 | **Day 37** | 19 Sep 2026 | `day37_q1.c`, `day37_q2.c` | Row sums in array, Transpose of matrix |
+| **Day 38** | 20 Sep 2026 | `day38_q1.c`, `day38_q2.c` | Matrix addition, Matrix symmetry check |
 
 ---
 
