@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 43 / 100** (86 problems completed)
+> **Current Progress:** **Day 44 / 100** (88 problems completed)
 
 ---
 
@@ -64,6 +64,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 41** | 23 Sep 2026 | `day41_q1.c`, `day41_q2.c` | String length without strlen, Print characters line-by-line |
 | **Day 42** | 24 Sep 2026 | `day42_q1.c`, `day42_q2.c` | Count vowels & consonants, Lowercase to uppercase |
 | **Day 43** | 25 Sep 2026 | `day43_q1.c`, `day43_q2.c` | Reverse string, Palindrome string |
+| **Day 44** | 26 Sep 2026 | `day44_q1.c`, `day44_q2.c` | Count spaces/digits/specials, Replace space with hyphen |
 
 ---
 
