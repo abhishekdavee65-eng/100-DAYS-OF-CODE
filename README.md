@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 46 / 100** (92 problems completed)
+> **Current Progress:** **Day 47 / 100** (94 problems completed)
 
 ---
 
@@ -67,6 +67,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 44** | 26 Sep 2026 | `day44_q1.c`, `day44_q2.c` | Count spaces/digits/specials, Replace space with hyphen |
 | **Day 45** | 27 Sep 2026 | `day45_q1.c`, `day45_q2.c` | Character frequency, Toggle case |
 | **Day 46** | 28 Sep 2026 | `day46_q1.c`, `day46_q2.c` | Remove vowels, First repeating character |
+| **Day 47** | 29 Sep 2026 | `day47_q1.c`, `day47_q2.c` | Anagram check, Longest word in sentence |
 
 ---
 
