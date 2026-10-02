@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 49 / 100** (98 problems completed)
+> **Current Progress:** **Day 50 / 100** (100 problems completed)
 
 ---
 
@@ -70,6 +70,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 47** | 29 Sep 2026 | `day47_q1.c`, `day47_q2.c` | Anagram check, Longest word in sentence |
 | **Day 48** | 30 Sep 2026 | `day48_q1.c`, `day48_q2.c` | String rotation check, Reverse each word in sentence |
 | **Day 49** | 01 Oct 2026 | `day49_q1.c`, `day49_q2.c` | Initials of name, Initials with full surname |
+| **Day 50** | 02 Oct 2026 | `day50_q1.c`, `day50_q2.c` | Date format conversion, Print all substrings |
 
 ---
 
