@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 53 / 100** (103 problems completed)
+> **Current Progress:** **Day 54 / 100** (104 problems completed)
 
 ---
 
@@ -74,6 +74,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 51** | 03 Oct 2026 | `day51_q1.c` | First and last occurrence in sorted array |
 | **Day 52** | 04 Oct 2026 | `day52_q1.c` | Ceil of x in sorted array |
 | **Day 53** | 05 Oct 2026 | `day53_q1.c` | Pivot index of array (left sum == right sum) |
+| **Day 54** | 06 Oct 2026 | `day54_q1.c` | Pivot integer x |
 
 ---
 
