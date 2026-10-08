@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 55 / 100** (105 problems completed)
+> **Current Progress:** **Day 56 / 100** (106 problems completed)
 
 ---
 
@@ -76,6 +76,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 53** | 05 Oct 2026 | `day53_q1.c` | Pivot index of array (left sum == right sum) |
 | **Day 54** | 06 Oct 2026 | `day54_q1.c` | Pivot integer x |
 | **Day 55** | 07 Oct 2026 | `day55_q1.c` | Majority element (Boyer-Moore) |
+| **Day 56** | 08 Oct 2026 | `day56_q1.c` | Next greater element |
 
 ---
 
