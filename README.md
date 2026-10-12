@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 59 / 100** (109 problems completed)
+> **Current Progress:** **Day 60 / 100** (110 problems completed)
 
 ---
 
@@ -80,6 +80,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 57** | 09 Oct 2026 | `day57_q1.c` | Previous greater element |
 | **Day 58** | 10 Oct 2026 | `day58_q1.c` | Product of array except self |
 | **Day 59** | 11 Oct 2026 | `day59_q1.c` | Maximum sum of subarray of size k |
+| **Day 60** | 12 Oct 2026 | `day60_q1.c` | Maximum in each subarray of size k |
 
 ---
 
