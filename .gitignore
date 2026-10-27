@@ -1,1 +1,6 @@
-﻿*.exe
+*.exe
+*.o
+*.obj
+.vscode/
+__pycache__/
+*.pyc
